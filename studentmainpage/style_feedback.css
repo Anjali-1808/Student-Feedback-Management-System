@@ -1,0 +1,26 @@
+.content{
+   
+	background-color:#E6E6FA;
+	background:fixed;
+	height:auto;
+}
+.content .Feedback-form {
+            
+           background:fixed;
+           position:static;
+           background-color:#E6E6FA;
+	
+			padding-top: 10px;
+	       padding-left:0px;
+	        padding :0px 200px;
+	        
+	       
+	        }
+
+.Feedback-form table
+{ 
+	width:900;
+	height:auto;
+	border-width: 3px;
+	
+}

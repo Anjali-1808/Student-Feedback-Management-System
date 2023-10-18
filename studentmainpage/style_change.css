@@ -1,0 +1,42 @@
+.Change-form {
+			background:fixed;
+			align-items: center;
+			background-position: center;
+			box-sizing: border-box;
+	       
+	        margin-left: 200px;
+	        position:absolute;
+	        padding :100px 250px;
+
+
+
+		}
+		
+		.Change-form h2 {
+			font-weight: 900;
+			font-size: 22px;
+			color:#778899;
+			text-transform: uppercase;
+			margin-bottom: 10px;
+		}
+		.Change-form label{
+		
+                color:#778899;
+				font-weight: bold;
+				width: 400px;
+				
+		}
+	.Change-form input{
+
+	text-align: center;
+    display:block;
+	width: 250px;
+	margin-top: 10px;
+	
+	padding-left:0px;
+	height:30px;
+	border-radius: 5px;
+			}
+			
+			
+	
